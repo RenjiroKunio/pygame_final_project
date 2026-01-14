@@ -19,9 +19,10 @@ The project was created as a final project for **COMP6047001 – Algorithm and P
 ## Instructions to Run the Code
 
 1. Ensure that **Python 3** is installed on your system.
-2. Download or clone this repository.
-3. Navigate to the project directory containing `main.py`.
-4. Run the program using the following command:
+2. Also ensure that **pygames** is installed by using "pip install pygame" in the terminal
+3. Download or clone this repository.
+4. Navigate to the project directory containing `main.py`.
+5. Run the program using the following command:
 
 ```bash
 python main.py
