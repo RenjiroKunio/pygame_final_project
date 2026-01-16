@@ -26,3 +26,8 @@ The project was created as a final project for **COMP6047001 – Algorithm and P
 
 ```bash
 python main.py
+```
+
+## Poster
+![image](Images/Pygame Space Shooter.png)
+
