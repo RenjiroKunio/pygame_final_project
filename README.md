@@ -29,5 +29,5 @@ python main.py
 ```
 
 ## Poster
-![image](Images/Pygame Space Shooter.png)
+![image]([Images/Pygame Space Shooter.png](https://github.com/RenjiroKunio/pygame_final_project/blob/be8a39347b5bde77d1ca485354f1276cbe1377be/Images/Pygame%20Space%20Shooter.png))
 
