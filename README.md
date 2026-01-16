@@ -26,3 +26,8 @@ The project was created as a final project for **COMP6047001 – Algorithm and P
 
 ```bash
 python main.py
+```
+
+## Poster
+![image](https://github.com/RenjiroKunio/pygame_final_project/blob/be8a39347b5bde77d1ca485354f1276cbe1377be/Images/Pygame%20Space%20Shooter.png)
+
