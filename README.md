@@ -31,3 +31,6 @@ python main.py
 ## Poster
 ![image](https://github.com/RenjiroKunio/pygame_final_project/blob/be8a39347b5bde77d1ca485354f1276cbe1377be/Images/Pygame%20Space%20Shooter.png)
 
+## Zybooks Progress
+![image](https://github.com/RenjiroKunio/pygame_final_project/blob/master/Images/Screenshot%202026-01-21%20221720.png)
+
